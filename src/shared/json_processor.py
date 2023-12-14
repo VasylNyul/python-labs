@@ -27,8 +27,8 @@ json_processor.display_flattened_json([json_data], color_position=2)
 """
 from colorama import Fore
 
-from config.logger_config import logger
-from shared import color_processor
+from src.config.logger_config import logger
+from src.shared import color_processor
 
 
 class JSONProcessor:

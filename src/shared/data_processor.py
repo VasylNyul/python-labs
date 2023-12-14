@@ -23,7 +23,7 @@ from datetime import datetime, date
 
 from dateutil.relativedelta import relativedelta
 
-from config.logger_config import logger
+from src.config.logger_config import logger
 
 
 class DateProcessor:

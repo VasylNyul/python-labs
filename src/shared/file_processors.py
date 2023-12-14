@@ -11,7 +11,7 @@ Classes:
 import json
 import pandas as pd
 
-from config.logger_config import logger
+from src.config.logger_config import logger
 
 pd.set_option('display.max_rows', None)
 pd.set_option('display.max_columns', None)

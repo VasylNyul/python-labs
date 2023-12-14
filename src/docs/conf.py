@@ -15,8 +15,8 @@ import sys
 sys.path.insert(0, os.path.abspath('../../src'))
 
 project = 'spl'
-copyright = '2023, Vitalii'
-author = 'Vitalii'
+copyright = '2023, Vasyl'
+author = 'Vasyl'
 release = '1'
 
 # -- General configuration ---------------------------------------------------

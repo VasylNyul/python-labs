@@ -15,7 +15,7 @@ If __name__ == '__main__':
 Author:
     Nyul Vasyl
 """
-from ui.menu.menu_facade import MenuFacade
+from src.ui.menu.menu_facade import MenuFacade
 
 if __name__ == '__main__':
     menuFacade = MenuFacade()

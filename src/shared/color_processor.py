@@ -18,7 +18,7 @@ import colorama
 import pyfiglet
 from colorama import Fore
 
-from config.logger_config import logger
+from src.config.logger_config import logger
 
 colorama.init(autoreset=True)
 colors = dict(enumerate(sorted(Fore.__dict__.keys())))
